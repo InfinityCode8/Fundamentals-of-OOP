@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Artem\source\repos\CP2.2 Artem Lytvynenko PB-01\Project2\Source.cpp(41,43): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\CP2.2 Artem Lytvynenko PB-01\Project2\Source.cpp(98,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project2.vcxproj -> C:\Users\Artem\source\repos\CP2.2 Artem Lytvynenko PB-01\Debug\Project2.exe
